@@ -1,0 +1,22 @@
+{
+    "name": "wdevs/module-custombar",
+    "description": "Custom bar on top of the page",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Deepak Jain",
+            "email": "jainml151170@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Wdevs\\CustomBar\\": ""
+        }
+    }
+}
