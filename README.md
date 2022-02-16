@@ -38,15 +38,12 @@ custom bar on top of the bar
 ## Configuration
 
  - Enable (custom_bar/general/enable)
+ - Bar text (custom_bar/general/bar_text)
 
 
 ## Specifications
 
- - Helper
-	- Wdevs\CustomBar\Helper\Data
-
-
-## Attributes
-
+ - Block
+	- Wdevs\CustomBar\Block\CustomBar
 
 
